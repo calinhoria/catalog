@@ -1,0 +1,16 @@
+en_GB:
+  Product:
+    ADDITIONALCATEGORIES: 'Additional Categories'
+    CATEGORY: Category
+    CATEGORYDESCRIPTION: 'This is the parent page or default category.'
+    DESCRIPTION: 'Generic content page'
+    PLURALNAME: Products
+    SINGULARNAME: Product
+  ProductCategory:
+    DESCRIPTION: 'Generic content page'
+    PLURALNAME: Categories
+    SINGULARNAME: Category
+  SiteTree:
+    PARENTTYPE_ROOT: 'Top-level page'
+    PLURALNAME: Pages
+    SINGULARNAME: Page

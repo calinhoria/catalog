@@ -1,0 +1,4 @@
+ro_RO:
+  Product: { ADDITIONALCATEGORIES: 'Categorii suplimentare', CATEGORY: Categorie, CATEGORYDESCRIPTION: 'Aceasta este pagina părinte sau categoria implicit.', DESCRIPTION: 'Generic content page', PLURALNAME: Products, SINGULARNAME: Product }
+  ProductCategory: { DESCRIPTION: 'Generic content page', PLURALNAME: Categories, SINGULARNAME: Category }
+  SiteTree: { PARENTTYPE_ROOT: 'Top-level page', PLURALNAME: Pages, SINGULARNAME: Page }

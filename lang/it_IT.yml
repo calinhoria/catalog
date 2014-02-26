@@ -1,0 +1,4 @@
+it_IT:
+  Product: { ADDITIONALCATEGORIES: 'Categorie Supplementari', CATEGORY: Categoria, CATEGORYDESCRIPTION: 'Questa è la pagina genitore o categoria predefinita.', DESCRIPTION: 'Pagina di contenuto generico', PLURALNAME: Prodotti, SINGULARNAME: Prodotto }
+  ProductCategory: { DESCRIPTION: 'Pagina di contenuto generico', PLURALNAME: Categorie, SINGULARNAME: Categoria }
+  SiteTree: { PARENTTYPE_ROOT: 'La pagina di primo livello', PLURALNAME: Pagine, SINGULARNAME: Pagina }
